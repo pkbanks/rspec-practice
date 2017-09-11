@@ -9,7 +9,8 @@ def fizz_buzz(num)
 		return "fizzbuzz"
 	end
 
-	if num % 5 == 0
+	if num % 5 == 0    expect(fizz_buzz(1)).to eq 1 
+
 		return "buzz"
 	end
 
