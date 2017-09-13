@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Using this as a way to learn about and practice concepts relating to tests.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Used these sites as resources:
+https://semaphoreci.com/community/tutorials/how-to-test-rails-models-with-rspec
+https://github.com/rspec/rspec-rails
+http://www.rubydoc.info/gems/rspec-rails/file/README.md
